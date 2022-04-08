@@ -10,3 +10,8 @@ Requirments:
   3. write in the prompt: "game.exe"
  
  Enjoy!
+
+
+SCREENSHOTS:
+
+![alt text](https://github.com/HarelZeevi/Missile_Command/screenshots/td_009.png)

@@ -22,11 +22,11 @@ Requirments:
 
 # Game_Screens
 ![game_screen1](https://github.com/HarelZeevi/Missile_Command/blob/main/screenshots/td_011.png)
-![game_screen2](https://github.com/HarelZeevi/Missile_Command/blob/main/screenshots/td_0012.png)
+![game_screen2](https://github.com/HarelZeevi/Missile_Command/blob/main/screenshots/td_012.png)
 
 # Winning_Screen
-https://github.com/HarelZeevi/Missile_Command/blob/main/pic3.bmp
+![winning](https://github.com/HarelZeevi/Missile_Command/blob/main/pic3.bmp)
 
 # Loosing_Screen
-https://github.com/HarelZeevi/Missile_Command/blob/main/pic4.bmp
+![loosing](https://github.com/HarelZeevi/Missile_Command/blob/main/pic4.bmp)
 

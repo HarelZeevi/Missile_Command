@@ -14,4 +14,9 @@ Requirments:
 
 SCREENSHOTS:
 
-![alt text](https://github.com/HarelZeevi/Missile_Command/screenshots/td_009.png)
+![opening screen](https://github.com/HarelZeevi/Missile_Command/blob/main/screenshots/td_009.png)
+![rules_screen](https://github.com/HarelZeevi/Missile_Command/blob/main/screenshots/td_0010.png)
+![game_screen1](https://github.com/HarelZeevi/Missile_Command/blob/main/screenshots/td_0011.png)
+![game_screen2](https://github.com/HarelZeevi/Missile_Command/blob/main/screenshots/td_0012.png)
+
+

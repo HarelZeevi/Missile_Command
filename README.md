@@ -12,8 +12,6 @@ Requirments:
  Enjoy!
 
 
-SCREENSHOTS:
-
 # Opening_Screen
 ![opening screen](https://github.com/HarelZeevi/Missile_Command/blob/main/screenshots/td_009.png)
 
@@ -27,7 +25,8 @@ SCREENSHOTS:
 ![game_screen2](https://github.com/HarelZeevi/Missile_Command/blob/main/screenshots/td_0012.png)
 
 # Winning_Screen
-
+https://github.com/HarelZeevi/Missile_Command/blob/main/pic3.bmp
 
 # Loosing_Screen
+https://github.com/HarelZeevi/Missile_Command/blob/main/pic4.bmp
 

@@ -12,7 +12,7 @@ Requirments:
  Enjoy!
 
 # Gameplay
-![gameplay](https://github.com/HarelZeevi/Missile_Command/blob/main/gameplays/gameplay.gif)
+![gameplay](https://github.com/HarelZeevi/Missile_Command/blob/main/screenshots/td_009.png)(https://github.com/HarelZeevi/Missile_Command/blob/main/gameplays/gameplay.mp4)
 
 # Opening_Screen
 ![opening screen](https://github.com/HarelZeevi/Missile_Command/blob/main/screenshots/td_009.png)

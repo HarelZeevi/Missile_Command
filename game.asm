@@ -1,6 +1,6 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;	Author: Harel Zeevi			;
-;	Game: 	Missile Command  	;
+;	Author: Harel Zeevi	;
+;	Game: 	Missile Command ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 IDEAL

@@ -1,6 +1,12 @@
 # Missile_Command
 I've recreated the familiar retro game "Missile Command" in Assembly. 
 
+
+# Gameplay
+![gameplay](https://github.com/HarelZeevi/Missile_Command/blob/main/gameplays/gameplay.gif)
+
+
+
 Requirments:
   Dosbox (free 8086 emulator)
  
@@ -10,9 +16,6 @@ Requirments:
   3. write in the prompt: "game.exe"
  
  Enjoy!
-
-# Gameplay
-![gameplay](https://github.com/HarelZeevi/Missile_Command/blob/main/screenshots/td_009.png)(https://github.com/HarelZeevi/Missile_Command/blob/main/gameplays/gameplay.mp4)
 
 # Opening_Screen
 ![opening screen](https://github.com/HarelZeevi/Missile_Command/blob/main/screenshots/td_009.png)
@@ -31,4 +34,3 @@ Requirments:
 
 # Loosing_Screen
 ![loosing](https://github.com/HarelZeevi/Missile_Command/blob/main/pic4.bmp)
-
